@@ -11,5 +11,5 @@ I'm currently working on my personal portfolio website, it's still under constru
 
 Stay tuned, updates coming soon!
 
-📫 Feel free to reach out via [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/getuard-lloqani-49ab12237/) in the meantime.
+📫 Feel free to reach out via [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/getuard-lloqani-49ab12237/) in the meantime!
 
